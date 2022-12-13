@@ -1,0 +1,20 @@
+{
+  "name": "psam-5600_net-art-0101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuxingyang/PSAM-5600_Net-Art-0101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuxingyang/PSAM-5600_Net-Art-0101/issues"
+  },
+  "homepage": "https://github.com/yuxingyang/PSAM-5600_Net-Art-0101#readme"
+}
